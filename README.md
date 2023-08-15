@@ -63,6 +63,7 @@
     $ git clone https://github.com/karthi-the-hacker/Gh0stR3c0n.git
     $ cd Gh0stR3c0n/
     $ chmod +x *
+    $ bash requirement.sh
     $ nano back-end/config.env
     $ ./run.bash
 
@@ -120,6 +121,7 @@
     $ git clone https://github.com/karthi-the-hacker/Gh0stR3c0n.git
     $ cd Gh0stR3c0n/
     $ chmod +x *
+    $ bash requirement.sh
     $ nano back-end/config.env
     $ ./run.bash
     
